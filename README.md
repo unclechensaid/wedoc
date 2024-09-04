@@ -1,2 +1,3 @@
-# wedoc
-this is my document system , to be dependent on docsify
+# Headline
+
+> An awesome project.
